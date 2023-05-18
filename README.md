@@ -36,7 +36,7 @@
   ## Screen Shots
   ![ScreenShot](./examples/assets/homework-5-16.png)
   ![ScreenShot](./examples/assets/Screenshot%202023-05-16%20184248.png)
-  ##Video 
+  ## Video 
   [Untitled_ May 16, 2023 6_58 PM.webm](https://github.com/abrand93/SVG-Logo-Maker/assets/125417439/bed92283-ff43-4303-ae2b-82817cb4391e)
   ## Testing
     N/A   
